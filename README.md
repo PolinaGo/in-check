@@ -44,7 +44,7 @@ The game uses
 - Cloud Firestore to keep data online
 - Firebase ML Vision plugin to access accuracy of the images
 
-<img src="https://github.com/PolinaGo/InCheck/blob/master/images/files_for_readme/game_flow.png"/>
+<img src="https://github.com/PolinaGo/in-check/blob/master/images/files_for_readme/game_flow.png"/>
 
 ## Testing:
 - Main      - :warning: (partial, widget)
