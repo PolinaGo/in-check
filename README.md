@@ -26,11 +26,11 @@ The timer is currently set to 30 seconds. If timer expires, or your image is unr
 NOTE: You can change game length and time, allocated for searching in the constants.dart file.
 
 #### Game screenshots (for a 5 question game with 20s timer):
-| <img src="https://github.com/PolinaGo/InCheck/blob/master/images/files_for_readme/main_page.jpg" width="162" height="342" />
-| <img src="https://github.com/PolinaGo/InCheck/blob/master/images/files_for_readme/q1.jpg" width="162" height="342" />
-| <img src="https://github.com/PolinaGo/InCheck/blob/master/images/files_for_readme/q2.jpg" width="162" height="342" />
-| <img src="https://github.com/PolinaGo/InCheck/blob/master/images/files_for_readme/q3.jpg" width="162" height="342" />
-| <img src="https://github.com/PolinaGo/InCheck/blob/master/images/files_for_readme/final_score.jpg" width="162" height="342" /> |
+| <img src="https://github.com/PolinaGo/in-check/blob/master/images/files_for_readme/main_page.jpg" width="162" height="342" />
+| <img src="https://github.com/PolinaGo/in-check/blob/master/images/files_for_readme/q1.jpg" width="162" height="342" />
+| <img src="https://github.com/PolinaGo/in-check/blob/master/images/files_for_readme/q2.jpg" width="162" height="342" />
+| <img src="https://github.com/PolinaGo/in-check/blob/master/images/files_for_readme/q3.jpg" width="162" height="342" />
+| <img src="https://github.com/PolinaGo/in-check/blob/master/images/files_for_readme/final_score.jpg" width="162" height="342" /> |
 
 ### Access:
 The game will need
